@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Beach Picnic",
+    "description": "Relax and enjoy a picnic on the beach with beautiful views and a peaceful atmosphere.",
+    "location": "South Beach, Miami",
+    "price": "$"
+  },
+  {
+    "id": 2,
+    "name": "Sunset Kayaking",
+    "description": "Experience the beautiful sunset while kayaking through the Biscayne Bay.",
+    "location": "Key Biscayne, Miami",
+    "price": "$$"
+  },
+  {
+    "id": 3,
+    "name": "Vizcaya Museum Gardens",
+    "description": "Take a romantic stroll through the beautiful gardens of the Vizcaya Museum in Coconut Grove.",
+    "location": "Coconut Grove, Miami",
+    "price": "$$"
+  },
+  {
+    "id": 4,
+    "name": "Wynwood Walls",
+    "description": "Explore the vibrant street art scene in Wynwood, one of Miami's most artistic neighborhoods.",
+    "location": "Wynwood, Miami",
+    "price": "$"
+  },
+  {
+    "id": 5,
+    "name": "Miami Seaquarium",
+    "description": "Spend the day learning about marine life and watching exciting animal shows.",
+    "location": "Virginia Key, Miami",
+    "price": "$$$"
+  }
+]
